@@ -1,6 +1,7 @@
-import { Carousel } from "./components/Carousel";
+import { Carousel } from "./components/Carousel.jsx";
 
 import { ALL_IMAGES } from "./data/imagesData.js";
+
 
 function App() {
   return (
